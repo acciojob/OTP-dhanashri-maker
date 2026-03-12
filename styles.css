@@ -1,19 +1,19 @@
-/*  your css code here. If applicable */
+
 body{
-    font-family: Arial;
-    text-align: center;
-    margin-top: 60px;
+    text-align:center;
+    font-family:Arial;
 }
 
 .code-container{
-    display: flex;
-    justify-content: center;
-    gap: 10px;
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    margin-top:20px;
 }
 
 .code{
-    width: 40px;
-    height: 50px;
-    font-size: 24px;
-    text-align: center;
+    width:40px;
+    height:50px;
+    font-size:22px;
+    text-align:center;
 }
